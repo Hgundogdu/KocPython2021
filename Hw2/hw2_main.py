@@ -48,8 +48,3 @@ print('Intercept of the regression is: {:8.6f}'.format(model.intercept_[0]))
 
 
 
-# In[ ]:
-
-
-
-
